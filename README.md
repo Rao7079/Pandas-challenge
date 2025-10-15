@@ -35,4 +35,4 @@ This repository contains solutions for 30 Pandas practice questions covering dat
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Rao7079/30-Pandas-Practice-Questions.git
+https://github.com/Rao7079/Pandas-challenge
