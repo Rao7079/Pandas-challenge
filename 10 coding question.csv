@@ -1,0 +1,9 @@
+﻿emp_id,Name,Gender,Age,Department,Salary,Join_Date
+101,Aman,M,25,IT,55000,15-01-2023
+102,Priya,F,29,HR,48000,10-11-2022
+103,Raj,M,NaN,Finance,63000,09-05-2024
+104,Sneha,F,31,IT,75000,21-08-2021
+105,Arjun,M,26,Sales,46000,12-02-2023
+106,Neha,F,28,HR,NaN,01-03-2024
+107,Ravi,M,24,Sales,52000,19-07-2023
+108,Meera,F,NaN,Finance,68000,30-09-2022
